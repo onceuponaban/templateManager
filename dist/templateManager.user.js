@@ -8,6 +8,7 @@
 // @grant			GM.xmlHttpRequest
 // @grant			GM.setValue
 // @grant			GM.getValue
+// @match           https://canvas.cdawgva.com/*
 // @match			https://pxls.space/
 // @match			https://new.reddit.com/r/place/*
 // @match			https://www.reddit.com/r/place/*
